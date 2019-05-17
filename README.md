@@ -6,7 +6,9 @@ A phone book running on the REST API.
 
 ```sh
 $ cd /path/to/htdocs
-$ git clone https://github.com/volmir/air-api-interface.git
+$ git clone https://github.com/volmir/simple-rest-api.git
+$ cd simple-rest-api
+$ mysql -uroot -p rest_api < dump/rest_api.sql
 ```
 
 ### Usage

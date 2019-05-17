@@ -5,7 +5,7 @@ class Db {
     private $host = 'localhost';
     private $dbname = 'rest_api';
     private $user = 'root';
-    private $password = 'jdh837mdkl';
+    private $password = '';
 
     /**
      * 
